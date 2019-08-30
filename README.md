@@ -1,4 +1,4 @@
-<div align="center" style="color:red;"><h1>Flask Login and Registeration System</h1></div>
+<div align="center"><h1>Flask Login and Registeration System</h1></div>
 
 <div align="center">In this repo, I created login and registration system in flask.</div>
 
